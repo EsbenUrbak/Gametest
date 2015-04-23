@@ -29,6 +29,7 @@ public class Main {
 		JFrame frame = new JFrame("Lorenz Chaos");
 		frame.setPreferredSize(new Dimension(800,400));
 		
+		//lets see if it finds anything different
 		
 		//Vega
 		JLabel vegaText=new JLabel();
