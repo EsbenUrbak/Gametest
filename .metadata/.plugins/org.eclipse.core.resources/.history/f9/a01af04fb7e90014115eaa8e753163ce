@@ -30,7 +30,6 @@ public class Main {
 		frame.setPreferredSize(new Dimension(800,400));
 		
 		//lets see if it finds anything different
-		//Test two
 		
 		//Vega
 		JLabel vegaText=new JLabel();
